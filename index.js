@@ -10,7 +10,7 @@
 //     return (`No can do.`);
 //   }
 // };
-// note: the above doesn't work due to the extra line breaks
+// note: the above doesn't work due to the extra line breaks (ask Jason on monday)
 
 function scuberGreetingForFeet(ride){
  if (ride <= 400) {
